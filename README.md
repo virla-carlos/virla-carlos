@@ -10,9 +10,7 @@ Estou em constante evolução, construindo projetos que refletem meu aprendizado
   <a href="https://github.com/virla-carlos">
     <img src="https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white">
   </a>
-</p>
-
-<p align="left">
+  
   <a href="https://www.linkedin.com/in/carlos-virla-915aab356/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
