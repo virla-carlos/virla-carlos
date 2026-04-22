@@ -18,7 +18,7 @@ Estou em constante evolução, construindo projetos que refletem meu aprendizado
         <img 
             alt="LinkedIn" 
             title="Me acompanhe no LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
 </p>
