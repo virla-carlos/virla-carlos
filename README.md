@@ -26,6 +26,7 @@ Estou em constante evolução, construindo projetos que refletem meu aprendizado
 ---
 
 ### 🤖 Linguagens e Tecnologias
+<br/>
 <img 
     align="left" 
     alt="Python" 
@@ -84,7 +85,7 @@ Estou em constante evolução, construindo projetos que refletem meu aprendizado
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=virla-carlos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
