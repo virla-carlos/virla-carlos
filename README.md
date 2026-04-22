@@ -26,7 +26,7 @@ Estou em constante evolução, construindo projetos que refletem meu aprendizado
 ---
 
 ### 🤖 Linguagens e Tecnologias
-<br/>
+
 <img 
     align="left" 
     alt="Python" 
@@ -67,7 +67,7 @@ Estou em constante evolução, construindo projetos que refletem meu aprendizado
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<br/>
+
 <br/>
 
 ### 📊 Estatísticas
