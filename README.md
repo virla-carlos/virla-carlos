@@ -26,8 +26,6 @@ Estou em constante evolução, construindo projetos que refletem meu aprendizado
 ---
 
 ### 🤖 Linguagens e Tecnologias
-https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg
-
 <img 
     align="left" 
     alt="Python" 
