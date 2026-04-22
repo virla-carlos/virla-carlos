@@ -14,6 +14,10 @@ Estou em constante evolução, construindo projetos que refletem meu aprendizado
   <a href="https://www.linkedin.com/in/carlos-virla-915aab356/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20">
   </a>
+
+  <a href="mailto:freelancejobslfn@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
 </p>
 
 ---
