@@ -26,7 +26,7 @@ Estou em constante evolução, construindo projetos que refletem meu aprendizado
 ---
 
 ### 🤖 Linguagens e Tecnologias
-
+<br/>
 <img 
     align="left" 
     alt="Python" 
@@ -71,7 +71,7 @@ Estou em constante evolução, construindo projetos que refletem meu aprendizado
 <br/>
 
 ### 📊 Estatísticas
-
+<br/>
 <p>
   <img 
     align="left" 
