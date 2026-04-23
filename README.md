@@ -14,13 +14,6 @@ Estou em constante evolução, construindo projetos que refletem meu aprendizado
             title="GitHub" 
             src="https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white"
         />
-    </a>
-    <a href="carlosvirla10@gmail.com">
-        <img 
-            alt="meu email" 
-            title="email para contato" 
-            src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
-        />
     </a> 
     <a href="https://www.linkedin.com/in/carlos-virla-915aab356/">
         <img 
