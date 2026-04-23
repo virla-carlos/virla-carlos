@@ -46,6 +46,14 @@ Estou em constante evolução, construindo projetos que refletem meu aprendizado
 />
 <img 
     align="left" 
+    alt="C" 
+    title="C"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://skillicons.dev/icons?i=c" 
+/>
+<img 
+    align="left" 
     alt="HTML"
     title="HTML" 
     width="30px" 
