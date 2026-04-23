@@ -6,20 +6,35 @@ Olá! Sou Carlos Alberto Virla Neto, estudante de Ciência da Computação no Ri
 
 Estou em constante evolução, construindo projetos que refletem meu aprendizado e dedicação à área. Este GitHub é onde documento minha jornada, aplico conhecimentos na prática e desenvolvo soluções com foco em crescimento profissional.
 
+
 <p align="left">
-  <a href="https://github.com/virla-carlos">
-    <img src="https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="mailto:freelancejobslfn@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/carlos-virla-915aab356/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20">
-  </a>
+    <a href="https://github.com/virla-carlos">
+        <img 
+            alt="GitHub" 
+            title="GitHub" 
+            src="https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white"
+        />
+    </a>
+    <a href="carlosvirla10@gmail.com">
+        <img 
+            alt="meu email" 
+            title="email para contato" 
+            src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
+        />
+    </a> 
+    <a href="https://www.linkedin.com/in/carlos-virla-915aab356/">
+        <img 
+            alt="meu linkedin" 
+            title="meu linkedin" 
+            src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20"
+        />
+    </a>
 </p>
 
+---
+
 ### 🤖 Linguagens e Tecnologias
-<br/>
+
 <img 
     align="left" 
     alt="Python" 
@@ -30,8 +45,8 @@ Estou em constante evolução, construindo projetos que refletem meu aprendizado
 />
 <img 
     align="left" 
-    alt="Java" 
-    title="Java"
+    alt="Java"
+    title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
@@ -62,9 +77,10 @@ Estou em constante evolução, construindo projetos que refletem meu aprendizado
 />
 
 <br/>
+<br/>
 
 ### 📊 Estatísticas
-<br/>
+
 <p>
   <img 
     align="left" 
@@ -73,24 +89,12 @@ Estou em constante evolução, construindo projetos que refletem meu aprendizado
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=virla-carlos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
+
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=virla-carlos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-<br/>
-
-
-
-
-
-
-
-
-
-
-
-
-
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=virla-carlos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
 </p>
