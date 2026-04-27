@@ -18,7 +18,8 @@ Estou em constante evolução, construindo projetos que refletem meu aprendizado
         <img 
             alt="meu linkedin" 
             title="meu linkedin" 
-            src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20"
+            src="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/d6761529-ca8a-47e5-9800-65b85e047832" />
+"
         />
     </a>
 </p>
