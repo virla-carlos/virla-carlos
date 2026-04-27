@@ -7,22 +7,7 @@ Olá! Sou Carlos Alberto Virla Neto, estudante de Ciência da Computação no Ri
 Estou em constante evolução, construindo projetos que refletem meu aprendizado e dedicação à área. Este GitHub é onde documento minha jornada, aplico conhecimentos na prática e desenvolvo soluções com foco em crescimento profissional.
 
 
-<p align="left">
-    <a href="https://github.com/virla-carlos">
-        <img 
-            alt="GitHub" 
-            title="GitHub" 
-            src="https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white"
-        />
-    </a> 
-    <a href="https://www.linkedin.com/in/carlos-virla-915aab356/">
-        <img 
-            alt="meu linkedin" 
-            title="meu linkedin" 
-            src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20"
-        />
-    </a>
-</p>
+
 
 ---
 
