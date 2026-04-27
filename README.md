@@ -16,7 +16,7 @@ Estou em constante evolução, construindo projetos que refletem meu aprendizado
     </a>
     <a href="https://www.linkedin.com/in/carlos-virla-915aab356/">
         <a href="https://www.linkedin.com/in/carlos-virla-915aab356/" target="_blank">
-          <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000"/>
+          <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
         </a>
     </a>
 </p>
