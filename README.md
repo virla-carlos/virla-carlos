@@ -21,6 +21,7 @@ Estou em constante evolução, construindo projetos que refletem meu aprendizado
             src="https://github.com/user-attachments/assets/829165e0-99a8-4519-a2c1-a00388167921"
             title="Linkedin"
         />
+        Linkedin
     </a>
 </p>
 
