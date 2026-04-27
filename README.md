@@ -16,8 +16,7 @@ Estou em constante evolução, construindo projetos que refletem meu aprendizado
     </a> 
     <a href="https://www.linkedin.com/in/carlos-virla-915aab356/">
         <img 
-            <img width="512" 
-            height="512" 
+            width="30"  
             alt="image" 
             src="https://github.com/user-attachments/assets/829165e0-99a8-4519-a2c1-a00388167921"
         />
